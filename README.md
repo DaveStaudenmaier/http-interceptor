@@ -2,11 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-This demo project shows how you can add http interceptor to your Angular project to intercept outgoing requests and incoming responses.  
+This demo project shows how you can add http interceptor to your Angular project to intercept outgoing requests and incoming responses. 
 
 For outgoing requests, make your code easier to read and less redundent by appending the server and header information in the interceptor.   
 
 For incoming requests, check if received a **504 Gateway Timeout** and attempt to retry 3 times with a 500 millisecond delay. 
+
+See my [blog](http://dev-reboot.com/http-interceptor) for an explanation of the code.
 
 ## Development server
 
