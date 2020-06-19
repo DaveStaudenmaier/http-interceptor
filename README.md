@@ -8,7 +8,7 @@ For outgoing requests, make your code easier to read and less redundent by appen
 
 For incoming requests, check if received a **504 Gateway Timeout** and attempt to retry 3 times with a 500 millisecond delay. 
 
-See my [blog](http://dev-reboot.com/http-interceptor) for an explanation of the code.
+See my [blog](http://dev-reboot.com/http-interceptor/) for an explanation of the code.
 
 ## Development server
 
