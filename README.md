@@ -1,4 +1,4 @@
-# HttpInterceptor
+# Use HttpInterceptor in Angular to intercept outgoing requests and incoming responses
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
