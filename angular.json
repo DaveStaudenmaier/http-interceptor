@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "http-interceptor"
+    }
+  },
+  "defaultProject": "http-interceptor",
+  "cli": {
+    "analytics": false
+  }
 }
