@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-Add http interceptor to your Angular project to intercept outgoing requests and incoming responses.  
+This demo project shows how you can add http interceptor to your Angular project to intercept outgoing requests and incoming responses.  
 
 For outgoing requests, make your code easier to read and less redundent by appending the server and header information in the interceptor.   
 
